@@ -1,0 +1,49 @@
+{
+	"distortionList": [{
+		"type": "D",
+		"itemId": "D_1463785868",
+		"modifiedDatetime": 1463786222,
+		"trigger": 0,
+		"triggerType": 0,
+		"position": 2,
+		"distortion": 1,
+		"direction": 0,
+		"radius": 210,
+		"strength": 0.52,
+		"x": 0,
+		"y": 15
+	}, {
+		"type": "D",
+		"itemId": "D_1463785889",
+		"modifiedDatetime": 1463786222,
+		"trigger": 0,
+		"triggerType": 0,
+		"position": 4,
+		"distortion": 2,
+		"direction": 0,
+		"radius": 182,
+		"strength": 0.51,
+		"x": 0,
+		"y": 0
+	}, {
+		"type": "D",
+		"itemId": "D_1463785904",
+		"modifiedDatetime": 1463786222,
+		"trigger": 0,
+		"triggerType": 0,
+		"position": 5,
+		"distortion": 2,
+		"direction": 0,
+		"radius": 182,
+		"strength": 0.51,
+		"x": 0,
+		"y": 0
+	}],
+	"skins": [{
+		"type": "K",
+		"itemId": "mus01",
+		"modifiedDatetime": 1463786222,
+		"folderName": "K_mus01",
+		"frames": 1
+	}]
+}

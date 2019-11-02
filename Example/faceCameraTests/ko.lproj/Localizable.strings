@@ -1,0 +1,89 @@
+/* 
+  Localizable.strings
+  myCamera
+
+  Created by cain on 16/5/11.
+  Copyright © 2016年 cain. All rights reserved.
+*/
+"clipping" = "절단";
+"rotation" = "회전";
+"straighten_horizontal" = "수평";
+"straighten_vertical" = "수직의";
+"horizontal_skew" = "수평";
+"vertical_skew" = "수직의";
+"shadow_saturation" = "그림자 채도";
+"highlight_saturation" = "높은 광 포화";
+"shadow_hue" = "그림자의 음영";
+"highlight_hue" = "하이라이트 톤";
+"balance" = "균형";
+"brightness" = "명도";
+"sharpen" = "선명하게";
+"contrast" = "대조";
+"saturation" = "포화";
+"highlight" = "높은 가벼운 보상";
+"shadow" = "음영 보정";
+"vignette" = "소품";
+"shift_radial" = "레이디 얼";
+"shift_linear" = "선형";
+"filter" = "필터";
+"double_filter" = "더블";
+"filter_lomo" = "기본";
+"filter_cartoon" = "만화";
+"beautify" = "아름다움";
+"black_white" = "흑백의";
+"filter_none" = "원래";
+"color_pencil" = "리드의 색상";
+"color_pencil2" = "연필";
+"pencil" = "리드의 색상";
+"cartoon" = "만화";
+"cartoon2" = "만화 B";
+"cartoon3" = "만화 C";
+"sketch" = "스케치";
+"sketch2" = "스케치 B";
+"sketch3" = "스케치 C";
+"texture_group_instant" = "조명";
+"texture_group_light" = "얼룩";
+"texture_group_material" = "종이";
+"text_color" = "색";
+"text_font" = "글꼴";
+"text_bubble" = "텍스트 거품";
+"text_align_left" = "좌회전";
+"text_align_center" = "정렬";
+"text_align_rght" = "오른쪽 정렬";
+"tap_camera_press_record" = "기록 비디오 카메라를 누릅니다 클릭";
+"permission_alert_title" = "어떤 카메라 권한이 없습니다";
+"permission_alert_message" = "설정에서 카메라에 오픈 액세스!";
+"permission_alert_ok" = "갈";
+"permission_title_photo" = "어떤 권한 앨범 없음";
+"permission_message_photo" = "앨범의 오픈 액세스 권한 설정!";
+"brush" = "브러시";
+"setting" = "설정";
+"eraser" = "지우개";
+"brush_size" = "브러쉬 크기";
+"brush_color" = "브러시 색상";
+"TEXT_HELLO" = "편집을 클릭";
+"share_it" = "몫";
+"brushs" = "브러시";
+"tool" = "전단";
+"text" = "쓰기";
+"blur" = "흐림";
+"stickers" = "스티커";
+"filters" = "필터";
+"textures" = "곡물";
+"back" = "반환";
+"straighten" = "스트레칭";
+"beautify" = "아름다움";
+"enhance" = "증가";
+"saved" = "앨범에 저장";
+"share_to" = "공유 :";
+"addText" = "추가";
+
+"rotate_left" ="회전";
+"rotate_horizon" ="수평 플립";
+"rotate_vertical" ="수직 플립";
+"open_mouth" ="입을 열고";
+"unlock" ="공유";
+"unlock_conten" ="주 및 잠금 해제";
+"unlock_title" ="잠금";
+"cancel" ="취소";
+"switch_face" = "스위치 얼굴";

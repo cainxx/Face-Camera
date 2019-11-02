@@ -1,0 +1,67 @@
+{
+	"meshs": [{
+		"position": 6,
+		"type": 1,
+		"direction": 0,
+		"radius": 0.5,
+		"strength": 0.55,
+		"insert": "{-0.2, 0, 0, 0}",
+	}, {
+		"position": 8,
+		"type": 1,
+		"direction": 0,
+		"radius": 0.7,
+		"strength": 0.51,
+		"insert": "{-0.4, 0, 0, 0}",
+	}, {
+		"position": 4,
+		"type": 1,
+		"direction": 0,
+		"radius": 0.35,
+		"strength": 0.31,
+		"insert": "{-0.0, 0.25, 0, 0}",
+	}, {
+		"position": 5,
+		"type": 1,
+		"direction": 0,
+		"radius": 0.35,
+		"strength": 0.31,
+		"insert": "{-0.0, -0.25, 0, 0}",
+	}, {
+		"position": 1,
+		"type": 2,
+		"direction": 0,
+		"radius": 0.3,
+		"strength": 0.34,
+		"insert": "{-0.0, -0.0, 0, 0}",
+	}, {
+		"position": 2,
+		"type": 2,
+		"direction": 0,
+		"radius": 0.3,
+		"strength": 0.34,
+		"insert": "{-0.0, -0.0, 0, 0}",
+	}],
+	"items": [{
+		"folderName": "nosehair",
+		"type":1,
+		"position": 6,
+		"type" : 0,
+		"frames": 72,
+		"width": 740,
+		"height": 1130,
+		"scale": 3.6,
+		"insert": "{0.465, -0.17, 0, 0}",
+	},{
+		"folderName": "nosehair0",
+		"position": 6,
+		"frames": 1,
+		"width": 135,
+		"height": 52,
+		"scale": 0.7,
+		"insert": "{0.3, 0.0, 0, 0}",
+	}],
+	"skins": [{
+		"folderName": "mus02",
+	}]
+}

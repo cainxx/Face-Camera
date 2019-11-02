@@ -1,0 +1,41 @@
+{
+	"meshs": [{
+		"type": 2,
+		"strength": 0.4000000134110451,
+		"radius": 0.41,
+		"position": 1,
+		"direction": 0,
+		"insert": "{0.0, 0, 0, 0}"
+	}, {
+		"type": 2,
+		"strength": 0.4000000134110451,
+		"radius": 0.41,
+		"position": 2,
+		"direction": 0,
+		"insert": "{0.0, 0, 0, 0}"
+	}, {
+		"type": 1,
+		"strength": 0.3999999985098839,
+		"radius": 1.02,
+		"position": 3,
+		"direction": 0,
+		"insert": "{0.0, 0, 0, 0}"
+	}, {
+		"type": 3,
+		"strength": 0.5,
+		"radius": 0.6,
+		"position": 4,
+		"direction": 7,
+		"insert": "{0.1, 0.35, 0, 0}"
+	}, {
+		"type": 3,
+		"strength": 0.5,
+		"radius": 0.6,
+		"position": 5,
+		"direction": 8,
+		"insert": "{0.1, -0.35, 0, 0}"
+	}],
+	"skins": [{
+		"folderName": "topknot",
+	}]
+}

@@ -1,0 +1,46 @@
+{
+
+	"meshs": [{
+		"type": 2,
+		"strength": 0.31,
+		"position": 0,
+		"radius": 1.0,
+		"direction": 0,
+		"insert": "{0, 0, 0, 0}",
+	}, {
+		"type": 1,
+		"strength": 0.38,
+		"position": 3,
+		"radius": 0.7,
+		"direction": 0,
+		"insert": "{0, 0, 0, 0}",
+	}, {
+		"type": 3,
+		"strength": 0.5,
+		"position": 4,
+		"radius": 0.7,
+		"direction": 1,
+		"insert": "{0.0, 0.4, 0, 0}",
+	}, {
+		"type": 2,
+		"strength": 0.5,
+		"position": 1,
+		"radius": 0.4,
+		"direction": 0,
+		"insert": "{0, 0, 0, 0}",
+	}, {
+		"type": 2,
+		"strength": 0.5,
+		"position": 2,
+		"radius": 0.4,
+		"direction": 0,
+		"insert": "{0, 0, 0, 0}",
+	}, {
+		"type": 3,
+		"strength": 0.5,
+		"position": 5,
+		"radius": 0.7,
+		"direction": 3,
+		"insert": "{0.0, -0.4, 0, 0}",
+	}, ]
+}

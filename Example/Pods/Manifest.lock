@@ -1,0 +1,30 @@
+PODS:
+  - GPUImage (0.1.7)
+  - pop (1.0.9)
+  - ReactiveCocoa (2.5):
+    - ReactiveCocoa/UI (= 2.5)
+  - ReactiveCocoa/Core (2.5):
+    - ReactiveCocoa/no-arc
+  - ReactiveCocoa/no-arc (2.5)
+  - ReactiveCocoa/UI (2.5):
+    - ReactiveCocoa/Core
+
+DEPENDENCIES:
+  - GPUImage
+  - pop (~> 1.0)
+  - ReactiveCocoa
+
+SPEC REPOS:
+  trunk:
+    - GPUImage
+    - pop
+    - ReactiveCocoa
+
+SPEC CHECKSUMS:
+  GPUImage: 733a5f0fab92df9de1c37ba9df520a833ccb406d
+  pop: f667631a5108a2e60d9e8797c9b32ddaf2080bce
+  ReactiveCocoa: e2db045570aa97c695e7aa97c2bcab222ae51f4a
+
+PODFILE CHECKSUM: 16ac9e097e35d73adf0a4fce9bbc708bab5f259c
+
+COCOAPODS: 1.8.4

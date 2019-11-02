@@ -1,0 +1,48 @@
+{
+	"meshs": [{
+		"position": 0,
+		"type": 2,
+		"direction": 0,
+		"radius": 0.69,
+		"strength": 0.31,
+		"insert": "{0.0, 0.0, 0, 0}"
+	}, {
+		"position": 3,
+		"type": 1,
+		"direction": 0,
+		"radius": 0.48,
+		"strength": 0.58,
+		"insert": "{0.0, 0.0, 0, 0}"
+	}, {
+		"position": 5,
+		"type": 3,
+		"direction": 3,
+		"radius": 0.52,
+		"strength": 0.5,
+		"insert": "{0.32, -0.3, 0, 0}"
+	}, {
+		"position": 4,
+		"type": 3,
+		"direction": 1,
+		"radius": 0.52,
+		"strength": 0.5,
+		"insert": "{0.3, 0.3, 0, 0}"
+	}, {
+		"position": 1,
+		"type": 2,
+		"direction": 0,
+		"radius": 0.3,
+		"strength": 0.5,
+		"insert": "{0.0, 0.0, 0, 0}"
+	}, {
+		"position": 2,
+		"type": 2,
+		"direction": 0,
+		"radius": 0.3,
+		"strength": 0.5,
+		"insert": "{0.0, 0.0, 0, 0}"
+	}],
+	"skins": [{
+		"folderName": "bigmouth",
+	}],
+}

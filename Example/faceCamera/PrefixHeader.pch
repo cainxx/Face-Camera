@@ -1,0 +1,35 @@
+//
+//  PrefixHeader.pch
+//  camera
+//
+//  Created by cain on 15/9/19.
+//  Copyright (c) 2015年 cain. All rights reserved.
+//
+#ifdef __OBJC__
+
+#import <GPUImage/GPUImage.h>
+#import "Utils.h"
+#import <ReactiveCocoa/ReactiveCocoa.h>
+#import <ReactiveCocoa/RACEXTScope.h>
+#import "MyAppDelegate.h"
+#import "ViewUtils.h"
+#import "Localize.h"
+#import "Category.h"
+
+#define CLAMP(x, low, high)  (((x) > (high)) ? (high) : (((x) < (low)) ? (low) : (x)))
+
+
+#define AppDelegate ((MyAppDelegate *)[[UIApplication sharedApplication] delegate])
+
+#define ISIOS7 ([[[[UIDevice currentDevice] systemVersion] substringToIndex:1] intValue]>=7)
+#define ISIOS8 ([[[[UIDevice currentDevice] systemVersion] substringToIndex:1] intValue]>=8)
+#define ISIOS9 ([[[[UIDevice currentDevice] systemVersion] substringToIndex:1] intValue]>=9)
+#define ISIPHONE6 SCREEN_WIDTH == 375.0
+#define ISPLUS SCREEN_WIDTH == 414.0
+
+#endif
+
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+

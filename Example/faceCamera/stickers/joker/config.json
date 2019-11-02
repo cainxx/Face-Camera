@@ -1,0 +1,50 @@
+{
+	"distortionList": [{
+		"type": "D",
+		"itemId": "D_1471865853",
+		"modifiedDatetime": 1471865882,
+		"trigger": 0,
+		"triggerType": 0,
+		"position": 4,
+		"distortion": 1,
+		"direction": 0,
+		"radius": 100,
+		"strength": 0.2,
+		"x": 0,
+		"y": 0,
+		"h": 0,
+		"v": 0,
+		"angle": 0.0,
+		"distortionAngle": 0.0
+	}, {
+		"type": "D",
+		"itemId": "D_1471865863",
+		"modifiedDatetime": 1471865882,
+		"trigger": 0,
+		"triggerType": 0,
+		"position": 5,
+		"distortion": 1,
+		"direction": 0,
+		"radius": 100,
+		"strength": 0.2,
+		"x": 0,
+		"y": 0,
+		"h": 0,
+		"v": 0,
+		"angle": 0.0,
+		"distortionAngle": 0.0
+	}],
+ 
+	"skins": [{
+		"type": "K",
+		"itemId": "joker",
+		"modifiedDatetime": 1471865882,
+		"folderName": "K_joker",
+		"frames": 1,
+		"trigger": 0,
+		"triggerType": 0,
+		"loopStart": -1,
+		"loopEnd": -1,
+		"blendCode": 0
+	}],
+}

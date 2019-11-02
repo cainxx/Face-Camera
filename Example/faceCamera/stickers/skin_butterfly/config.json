@@ -1,0 +1,34 @@
+{
+	"distortionList": [{
+		"type": "D",
+		"itemId": "D_1467196961",
+		"modifiedDatetime": 1467196991,
+		"trigger": 0,
+		"triggerType": 0,
+		"position": 3,
+		"distortion": 2,
+		"direction": 0,
+		"radius": 165,
+		"strength": 0.31,
+		"x": 0,
+		"y": 0,
+		"h": 0,
+		"v": 0,
+		"angle": 0.0,
+		"distortionAngle": 0.0
+	}],
+ 
+	"skins": [{
+		"type": "K",
+		"itemId": "bfmakeup",
+		"modifiedDatetime": 1467196991,
+		"folderName": "K_bfmakeup",
+		"frames": 1,
+		"trigger": 0,
+		"triggerType": 0,
+		"loopStart": -1,
+		"loopEnd": -1,
+		"blendCode": 0
+	}],
+ 
+}

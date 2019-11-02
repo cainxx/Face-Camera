@@ -1,0 +1,18 @@
+{
+	"items": [{
+		"folderName": "F_head",
+		"position": 0,
+		"frames": 1,
+		"width": 700,
+		"height": 626,
+  		"scale": 2.7,
+		"insert": "{-0.3, 0.0, 0, 0}",
+	}],
+	"skins": [{
+		"type": "K",
+		"itemId": "pierrot",
+		"modifiedDatetime": 1463627661,
+		"folderName": "K_pierrot",
+		"frames": 1
+	}]
+}

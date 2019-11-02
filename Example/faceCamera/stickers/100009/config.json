@@ -1,0 +1,27 @@
+
+{
+    "items": [{
+              "width": 222,
+              "height": 102,
+              "looping": 1,
+              "position": 6,
+              "frameDuration": 50,
+              "scale": 1.65,
+              "insert": "{-0.0, 0, 0, 0}",
+              "frames": 21,
+              "folderName": "bizi"
+              },
+              
+              {
+              "width": 340,
+              "height": 100,
+              "looping": 1,
+              "position": 0,
+              "frameDuration": 50,
+              "scale": 2.6,
+              "insert": "{-1.2, 0, 0, 0}",
+              "frames": 21,
+              "folderName": "erduo"
+              }]
+}
+

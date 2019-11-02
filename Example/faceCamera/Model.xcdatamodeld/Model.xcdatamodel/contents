@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model userDefinedModelVersionIdentifier="" type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="9525" systemVersion="14F1509" minimumToolsVersion="Xcode 7.0">
+    <entity name="SimpleCache" syncable="YES">
+        <attribute name="cache_data" optional="YES" attributeType="Binary" syncable="YES"/>
+        <attribute name="cache_date" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+        <attribute name="cache_name" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="SimpleCache" positionX="-1224" positionY="-216" width="128" height="90"/>
+    </elements>
+</model>

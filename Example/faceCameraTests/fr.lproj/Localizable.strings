@@ -1,0 +1,103 @@
+/*
+ Localizable.strings
+ myCamera
+ 
+ Created by cain on 16/5/11.
+ Copyright © 2016年 cain. All rights reserved.
+ */
+
+"clipping" = "Clipping";
+"rotation" = "Rotation";
+"straighten_horizontal" = "Horizontal";
+"straighten_vertical" = "Vertical";
+"horizontal_skew" = "Horizontal";
+"vertical_skew" = "Vertical";
+
+"shadow_saturation" = "ShadowSaturation";
+"highlight_saturation" = "HighlightSaturation";
+"shadow_hue" = "ShadowHue";
+"highlight_hue" = "HighlightHue";
+"balance" = "Balance";
+"brightness" = "Brightness";
+"sharpen" = "Sharpen";
+"contrast" = "Contrast";
+"saturation" = "Saturation";
+"highlight" = "Highlight";
+"shadow" = "Shadow";
+"vignette" = "Vignette";
+
+"shift_radial" = "Radial";
+"shift_linear" = "Mirror";
+
+"filter" = "Filter";
+"double_filter" = "Double";
+"filter_lomo" = "Basic";
+"filter_cartoon" = "Cartoon";
+"black_white" = "Monochrome";
+"beautify" = "Beautify";
+"filter_none" = "Original";
+
+"color_pencil" = "PencilA";
+"color_pencil2" = "PencilC";
+"pencil" = "PencilB";
+"cartoon" = "CartoonA";
+"cartoon2" = "CartoonB";
+"cartoon3" = "CartoonC";
+"sketch" = "SketchA";
+"sketch2" = "SketchB";
+"sketch3" = "SketchC";
+
+
+"texture_group_instant" = "Instant";
+"texture_group_light" = "Stains";
+"texture_group_material" = "Paper";
+
+"text_color" = "Color";
+"text_font" = "Font";
+"text_bubble" = "Bubble";
+"text_align_left" = "Left";
+"text_align_center" = "Center";
+"text_align_rght" = "Right";
+"tap_camera_press_record" = "Long tap to record video";
+
+"permission_alert_title" = "Permission for camera was denied";
+"permission_alert_message" = "Please enable access to camera in the Settings app";
+"permission_alert_ok" = "OK";
+"permission_title_photo" = "Permission for album was denied";
+"permission_message_photo" = "Please enable access to photo album in the Settings app";
+"brush" = "Brush";
+"setting" = "Setting";
+"eraser" = "Eraser";
+"brush_size" = "Brush Size";
+"brush_color" = "Brush Color";
+"TEXT_HELLO" = "Click on edit";
+
+"share_it" = "Share";
+"brushs" = "Brushs";
+"tool" = "Tool";
+"text" = "Text";
+"blur" = "Blue";
+"stickers" = "Stickers";
+"filters" = "Filters";
+"textures" = "Textures";
+"back" = "Back";
+"straighten" = "Straighten";
+"beautify" = "Beautify";
+"enhance" = "Enhance";
+
+"saved" = "Saved to album";
+"share_to" = "Share To:";
+
+"rotate_left" = "Rotate"
+"rotate_horizon" = "Flip Horizontal"
+"rotate_vertical" = "Flip Vertical"
+
+"addText" = "Add";
+"open_mouth" = "Open Mouth";
+"unlock" = "Share";
+"unlock_conten" = "Share and Unlock";
+"unlock_title" = "Lock";
+"cancel" = "Cancel";
+
+
+

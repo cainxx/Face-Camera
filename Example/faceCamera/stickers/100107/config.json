@@ -1,0 +1,72 @@
+{
+	"meshs": [{
+		"position": 8,
+		"type": 3,
+		"direction": 2,
+		"radius": 0.9,
+		"strength": 0.67,
+		"insert": "{-0.4, -0, 0, 0}"
+	}, {
+		"position": 1,
+		"type": 3,
+		"direction": 3,
+		"radius": 0.65,
+		"strength": 0.17,
+		"x": -50,
+		"y": -170,
+		"insert": "{0.0, 0.3, 0, 0}"
+	}, {
+		"position": 2,
+		"type": 3,
+		"direction": 1,
+		"radius": 0.65,
+		"strength": 0.17,
+		"x": 50,
+		"y": -170,
+		"insert": "{0.0, -0.3, 0, 0}"
+	}, {
+		"position": 2,
+		"type": 1,
+		"direction": 0,
+		"radius": 0.3,
+		"strength": 0.2,
+		"x": -26,
+		"insert": "{0, 0.03, 0, 0}"
+	}, {
+		"position": 1,
+		"type": 1,
+		"direction": 0,
+		"radius": 0.3,
+		"strength": 0.2,
+		"x": 26,
+		"insert": "{0, -0.03, 0, 0}"
+	}, {
+		"position": 6,
+		"type": 1,
+		"direction": 0,
+		"radius": 0.2,
+		"strength": 0.88,
+		"x": 0,
+		"y": -62,
+		"insert": "{0.3, -0, 0, 0}"
+	}, {
+		"position": 3,
+		"type": 2,
+		"direction": 0,
+		"radius": 0.32,
+		"strength": 0.65,
+		"x": 0,
+		"y": 94,
+		"insert": "{-0.2, -0, 0, 0}"
+	}, {
+		"position": 0,
+		"type": 2,
+		"direction": 0,
+		"radius": 0.08,
+		"strength": 0.34,
+		"insert": "{0, -0, 0, 0}"
+	}],
+	"skins": [{
+		"folderName": "mon3",
+	}],
+}

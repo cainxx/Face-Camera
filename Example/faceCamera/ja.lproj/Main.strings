@@ -1,0 +1,81 @@
+
+/* Class = "UITabBarItem"; title = "Item"; ObjectID = "0O2-3c-RIn"; */
+"0O2-3c-RIn.title" = "Item";
+
+/* Class = "UIButton"; normalTitle = "后退"; ObjectID = "0nE-P2-vUP"; */
+"0nE-P2-vUP.normalTitle" = "后退";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "3kU-ys-UOz"; */
+"3kU-ys-UOz.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "43F-EJ-82R"; */
+"43F-EJ-82R.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = "特效"; ObjectID = "45A-po-XHA"; */
+"45A-po-XHA.normalTitle" = "特效";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "7UG-Tx-kr8"; */
+"7UG-Tx-kr8.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = "贴纸"; ObjectID = "8XI-ui-h5S"; */
+"8XI-ui-h5S.normalTitle" = "贴纸";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Az9-Kt-YEN"; */
+"Az9-Kt-YEN.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "EoV-K6-EAL"; */
+"EoV-K6-EAL.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "F5b-fx-Pus"; */
+"F5b-fx-Pus.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "JdO-uH-g75"; */
+"JdO-uH-g75.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "分享"; ObjectID = "MEG-uH-Sbi"; */
+"MEG-uH-Sbi.normalTitle" = "分享";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "QLe-3c-cAP"; */
+"QLe-3c-cAP.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = "画笔"; ObjectID = "RHS-XZ-vCb"; */
+"RHS-XZ-vCb.normalTitle" = "画笔";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Tg7-oR-MEy"; */
+"Tg7-oR-MEy.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "TuB-GB-aYe"; */
+"TuB-GB-aYe.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = "工具"; ObjectID = "WMh-wW-y9s"; */
+"WMh-wW-y9s.normalTitle" = "工具";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "ZOB-UE-lUC"; */
+"ZOB-UE-lUC.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "ZSO-r2-CfI"; */
+"ZSO-r2-CfI.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = "文字"; ObjectID = "elg-5r-FpV"; */
+"elg-5r-FpV.normalTitle" = "文字";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "fn6-pZ-cwg"; */
+"fn6-pZ-cwg.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = "增强"; ObjectID = "hWy-1p-3iV"; */
+"hWy-1p-3iV.normalTitle" = "增强";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "k50-ut-sy1"; */
+"k50-ut-sy1.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "kcL-Ox-oQ7"; */
+"kcL-Ox-oQ7.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "sgI-pY-QNS"; */
+"sgI-pY-QNS.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = "滤镜"; ObjectID = "xSQ-Oj-7Le"; */
+"xSQ-Oj-7Le.normalTitle" = "滤镜";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "zyG-tN-TZO"; */
+"zyG-tN-TZO.normalTitle" = "Button";

@@ -1,0 +1,847 @@
+
+[
+ {
+ "gropuName": "group0",
+ "toolName":"group",
+ "title":"group",
+ "iconImagePath":"camera_photo.png",
+ "optionalInfo":"",
+ "subtools": [
+              {
+              "type": "4",
+              "title":"wetInk",
+              "toolName":"wetInk",
+              "fiters":{
+                    "wetInk": {},
+              }
+              },
+              {
+              "type": "4",
+              "title":"timeChannel",
+              "toolName":"timeChannel",
+              "fiters":{
+                    "timeChannel": {},
+              }
+              },
+              {
+              "type": "4",
+              "title":"oldPhoto",
+              "toolName":"oldPhoto",
+              "fiters":{
+                    "oldPhoto": {},
+              }
+              },
+              {
+              "type": "4",
+              "title":"oldPhoto",
+              "toolName":"oldPhoto",
+              "fiters":{
+                    "crayon": {},
+              }
+              },
+              {
+              "type": "1",
+              "filename": "lookup_ff_hudson.png",
+              "title":"sss",
+              "toolName":"sss",
+              "iconImagePath":"camera_photo.png"
+              },
+              
+              {
+              "type": "3",
+              "filename": "lut-2.JPG",
+              "title":"1973",
+              "toolName":"1973",
+              "iconImagePath":"camera_photo.png"
+              },
+              {
+              "type": "3",
+              "filename": "berry.JPG",
+              "title":"berry",
+              "toolName":"berry",
+              "iconImagePath":"camera_photo.png"
+              },
+              {
+              "type": "3",
+              "filename": "cafe.JPG",
+              "title":"cafe",
+              "toolName":"cafe",
+              "iconImagePath":"camera_photo.png"
+              },
+              {
+              "type": "3",
+              "filename": "comfy.JPG",
+              "title":"comfy",
+              "toolName":"comfy",
+              "iconImagePath":"camera_photo.png"
+              },
+              {
+              "type": "3",
+              "filename": "fairy.JPG",
+              "title":"fairy",
+              "toolName":"fairy",
+              "iconImagePath":"camera_photo.png"
+              },
+              {
+              "type": "3",
+              "filename": "magna.JPG",
+              "title":"magna",
+              "toolName":"magna",
+              "iconImagePath":"camera_photo.png"
+              },
+              {
+              "type": "3",
+              "filename": "mints.JPG",
+              "title":"mints",
+              "toolName":"mints",
+              "iconImagePath":"camera_photo.png"
+              },
+              {
+              "type": "3",
+              "filename": "orton.JPG",
+              "title":"orton",
+              "toolName":"orton",
+              "iconImagePath":"camera_photo.png"
+              },
+              {
+              "type": "3",
+              "filename": "pop.JPG",
+              "title":"pop",
+              "toolName":"pop",
+              "iconImagePath":"camera_photo.png"
+              },
+              {
+              "type": "3",
+              "filename": "roast.JPG",
+              "title":"roast",
+              "toolName":"roast",
+              "iconImagePath":"camera_photo.png"
+              },
+              {
+              "type": "3",
+              "filename": "rock.JPG",
+              "title":"rock",
+              "toolName":"rock",
+              "iconImagePath":"camera_photo.png"
+              },
+              {
+              "type": "3",
+              "filename": "sunny.JPG",
+              "title":"sunny",
+              "toolName":"sunny",
+              "iconImagePath":"camera_photo.png"
+              },
+              {
+              "type": "3",
+              "filename": "windy.JPG",
+              "title":"windy",
+              "toolName":"windy",
+              "iconImagePath":"camera_photo.png"
+              },
+
+              
+              {
+              "type": "1",
+              "filename": "lookup_gi_0200.png",
+              "title":"蓝",
+              "toolName":"sss",
+              "iconImagePath":"camera_photo.png"
+              },
+              {
+              "type": "1",
+              "filename": "lookup_ttt_polaroid.png",
+              "title":"蓝",
+              "toolName":"sss",
+              "iconImagePath":"camera_photo.png"
+              },
+              {
+              "type": "1",
+              "filename": "lookup_gg_0185.png",
+              "title":"蓝",
+              "toolName":"sss",
+              "iconImagePath":"camera_photo.png"
+              },
+              {
+              "type": "1",
+              "filename": "lookup_a1_2942.png",
+              "title":"蓝",
+              "toolName":"sss",
+              "iconImagePath":"camera_photo.png"
+              },
+              {
+              "type": "1",
+              "filename": "lookup_uf_fridge.png",
+              "title":"蓝",
+              "toolName":"sss",
+              "iconImagePath":"camera_photo.png"
+              },
+              {
+              "type": "1",
+              "filename": "lookup_gi_0190.png",
+              "title":"蓝",
+              "toolName":"sss",
+              "iconImagePath":"camera_photo.png"
+              },
+              {
+              "type": "1",
+              "filename": "lookup_gi_0206.png",
+              "title":"蓝",
+              "toolName":"sss",
+              "iconImagePath":"camera_photo.png"
+              },
+              {
+              "type": "1",
+              "filename": "lookup_wi_red.png",
+              "title":"黄红",
+              "toolName":"sss",
+              "iconImagePath":"camera_photo.png"
+              },
+              {
+              "type": "1",
+              "filename": "lookup_a5.png",
+              "title":"蓝",
+              "toolName":"sss",
+              "iconImagePath":"camera_photo.png"
+              },
+              {
+              "type": "1",
+              "filename": "lookup_uf_caramel.png",
+              "title":"sss",
+              "toolName":"sss",
+              "iconImagePath":"camera_photo.png"
+              },
+              {
+              "type": "1",
+              "filename": "lookup_a1_2923.png",
+              "title":"sss",
+              "toolName":"sss",
+              "iconImagePath":"camera_photo.png"
+              },
+              {
+              "type": "1",
+              "filename": "lookup_gg_0183.png",
+              "title":"黄",
+              "toolName":"sss",
+              "iconImagePath":"camera_photo.png"
+              },
+              {
+              "type": "1",
+              "filename": "lookup_uf_scarlet.png",
+              "title":"红1",
+              "toolName":"sss",
+              "iconImagePath":"camera_photo.png"
+              },
+              {
+              "type": "1",
+              "filename": "lookup_uf_lemonpeel.png",
+              "title":"黄",
+              "toolName":"sss",
+              "iconImagePath":"camera_photo.png"
+              },
+              {
+              "type": "1",
+              "filename": "lookup_ff_px_680cold.png",
+              "title":"黄",
+              "toolName":"sss",
+              "iconImagePath":"camera_photo.png"
+              },
+              {
+              "type": "1",
+              "filename": "lookup_ff_px_70.png",
+              "title":"黄1",
+              "toolName":"sss",
+              "iconImagePath":"camera_photo.png"
+              },
+              {
+              "type": "1",
+              "filename": "lookup_gg_0181.png",
+              "title":"黄2",
+              "toolName":"sss",
+              "iconImagePath":"camera_photo.png"
+              },
+              {
+              "type": "1",
+              "filename": "lookup_wi_green.png",
+              "title":"黄4",
+              "toolName":"sss",
+              "iconImagePath":"camera_photo.png"
+              },
+              {
+              "type": "1",
+              "filename": "lookup_a1_2939.png",
+              "title":"sss",
+              "toolName":"sss",
+              "iconImagePath":"camera_photo.png"
+              },
+              
+              {
+              "type": "1",
+              "filename": "lookup_f_cool.png",
+              "title":"sss",
+              "toolName":"sss",
+              "iconImagePath":"camera_photo.png"
+              },
+              {
+              "type": "1",
+              "filename": "lookup_wi_s_im.png",
+              "title":"红",
+              "toolName":"sss",
+              "iconImagePath":"camera_photo.png"
+              },
+              {
+              "type": "1",
+              "filename": "lookup_ff_px_70cold.png",
+              "title":"sss",
+              "toolName":"sss",
+              "iconImagePath":"camera_photo.png"
+              },
+              {
+              "type": "1",
+              "filename": "lookup_wi_i_dr.png",
+              "title":"sss",
+              "toolName":"sss",
+              "iconImagePath":"camera_photo.png"
+              },
+              
+              {
+              "type": "1",
+              "filename": "lookup_gi_0205.png",
+              "title":"sss",
+              "toolName":"sss",
+              "iconImagePath":"camera_photo.png"
+              },
+              {
+              "type": "1",
+              "filename": "lookup_uf_deutan.png",
+              "title":"sss",
+              "toolName":"sss",
+              "iconImagePath":"camera_photo.png"
+              },
+              
+              {
+              "type": "1",
+              "filename": "lookup_a1_2944.png",
+              "title":"sss",
+              "toolName":"sss",
+              "iconImagePath":"camera_photo.png"
+              },
+              {
+              "type": "1",
+              "filename": "lookup_gg_0186.png",
+              "title":"sss",
+              "toolName":"sss",
+              "iconImagePath":"camera_photo.png"
+              },
+              {
+              "type": "1",
+              "filename": "lookup_gb_0216.png",
+              "title":"sss",
+              "toolName":"sss",
+              "iconImagePath":"camera_photo.png"
+              },
+              {
+              "type": "1",
+              "filename": "lookup_ff_px_680.png",
+              "title":"sss",
+              "toolName":"sss",
+              "iconImagePath":"camera_photo.png"
+              },
+              
+              {
+              "type": "1",
+              "filename": "lookup_pw_2854.png",
+              "title":"sss",
+              "toolName":"sss",
+              "iconImagePath":"camera_photo.png"
+              },
+              {
+              "type": "1",
+              "filename": "lookup_50_ps1.png",
+              "title":"sss",
+              "toolName":"sss",
+              "iconImagePath":"camera_photo.png"
+              },
+              {
+              "type": "1",
+              "filename": "lookup_50_s_cold.png",
+              "title":"other",
+              "toolName":"sss",
+              "iconImagePath":"camera_photo.png"
+              },
+              {
+              "type": "1",
+              "filename": "lookup_wi_classic.png",
+              "title":"sss",
+              "toolName":"sss",
+              "iconImagePath":"camera_photo.png"
+              },
+              {
+              "type": "1",
+              "filename": "lookup_50_at3.png",
+              "title":"sss",
+              "toolName":"sss",
+              "iconImagePath":"camera_photo.png"
+              },
+              {
+              "type": "1",
+              "filename": "lookup_gi_0198.png",
+              "title":"绿1",
+              "toolName":"sss",
+              "iconImagePath":"camera_photo.png"
+              },
+              {
+              "type": "1",
+              "filename": "lookup_50_fm1.png",
+              "title":"绿",
+              "toolName":"sss",
+              "iconImagePath":"camera_photo.png"
+              }
+              
+              ]
+ },
+ {
+ "gropuName": "sketchs",
+ "toolName":"sketchs",
+ "title":"sketchs",
+ "iconImagePath":"camera_photo.png",
+ "optionalInfo":"",
+ "subtools": [
+              {
+              "type": "3",
+              "title":"ColorPencil",
+              "toolName":"ColorPencil",
+              "iconImagePath":"camera_photo.png"
+              },
+              {
+              "type": "3",
+              "title":"Pencil",
+              "toolName":"Pencil",
+              "iconImagePath":"camera_photo.png"
+              },
+              {
+              "type": "3",
+              "title":"Cartoon",
+              "toolName":"Cartoon",
+              "iconImagePath":"camera_photo.png"
+              },
+              {
+              "type": "3",
+              "title":"Cartoon2",
+              "toolName":"Cartoon2",
+              "iconImagePath":"camera_photo.png"
+              },
+              {
+              "type": "3",
+              "title":"Cartoon3",
+              "toolName":"Cartoon3",
+              "iconImagePath":"camera_photo.png"
+              },
+              {
+              "type": "3",
+              "title":"Sketch",
+              "toolName":"Sketch",
+              "iconImagePath":"camera_photo.png"
+              },
+              {
+              "type": "3",
+              "title":"Sketch2",
+              "toolName":"Sketch2",
+              "iconImagePath":"camera_photo.png"
+              },
+              {
+              "type": "3",
+              "title":"Sketch4",
+              "toolName":"Sketch3",
+              "iconImagePath":"camera_photo.png"
+              }
+              ]
+ },
+ {
+ "gropuName": "黑白",
+ "toolName":"group",
+ "title":"group",
+ "iconImagePath":"camera_photo.png",
+ "optionalInfo":"",
+ "subtools": [
+              {
+              "type": "1",
+              "filename": "lookup_uf_cufflink.png",
+              "title":"黑",
+              "toolName":"sss",
+              "iconImagePath":"camera_photo.png"
+              },
+              {
+              "type": "1",
+              "filename": "lookup_ull_bw_faded.png",
+              "title":"黑",
+              "toolName":"sss",
+              "iconImagePath":"camera_photo.png"
+              },
+              {
+              "type": "1",
+              "filename": "lookup_uf_iris.png",
+              "title":"黑",
+              "toolName":"sss",
+              "iconImagePath":"camera_photo.png"
+              },
+              {
+              "type": "1",
+              "filename": "lookup_gb_0211.png",
+              "title":"黑1",
+              "toolName":"sss",
+              "iconImagePath":"camera_photo.png"
+              },
+              {
+              "type": "1",
+              "filename": "lookup_ff_px_100uvcold.png",
+              "title":"黑",
+              "toolName":"sss",
+              "iconImagePath":"camera_photo.png"
+              },
+              {
+              "type": "1",
+              "filename": "lookup_ff_inkwell.png",
+              "title":"黑",
+              "toolName":"sss",
+              "iconImagePath":"camera_photo.png"
+              },
+              {
+              "type": "1",
+              "filename": "lookup_ff_px_100uvwarm.png",
+              "title":"黑",
+              "toolName":"sss",
+              "iconImagePath":"camera_photo.png"
+              },
+              {
+              "type": "1",
+              "filename": "lookup_ull_v_blacknwhite.png",
+              "title":"黑",
+              "toolName":"sss",
+              "iconImagePath":"camera_photo.png"
+              },
+              {
+              "type": "1",
+              "filename": "lookup_gb_0208.png",
+              "title":"黑",
+              "toolName":"sss",
+              "iconImagePath":"camera_photo.png"
+              }
+              
+              ]
+ },
+ {
+ "gropuName": "group1",
+ "toolName":"group",
+ "title":"group",
+ "iconImagePath":"camera_photo.png",
+ "optionalInfo":"",
+ "subtools": [
+              {
+              "type": "1",
+              "filename": "lookup_pxg_psychedelia.png",
+              "title":"红",
+              "toolName":"sss",
+              "iconImagePath":"camera_photo.png"
+              },
+              {
+              "type": "1",
+              "filename": "lookup_pxg_uranus.png",
+              "title":"蓝",
+              "toolName":"sss",
+              "iconImagePath":"camera_photo.png"
+              },
+              {
+              "type": "1",
+              "filename": "lookup_pxg_valis.png",
+              "title":"红",
+              "toolName":"sss",
+              "iconImagePath":"camera_photo.png"
+              },
+              {
+              "type": "1",
+              "filename": "lookup_pxg_chloroplast.png",
+              "title":"color",
+              "toolName":"sss",
+              "iconImagePath":"camera_photo.png"
+              },
+              
+              {
+              "type": "1",
+              "filename": "lookup_uf_verdial.png",
+              "title":"黄",
+              "toolName":"sss",
+              "iconImagePath":"camera_photo.png"
+              },
+              {
+              "type": "1",
+              "filename": "lookup_pxg_majoris.png",
+              "title":"黄3",
+              "toolName":"sss",
+              "iconImagePath":"camera_photo.png"
+              },
+              {
+              "type": "1",
+              "filename": "lookup_50_os1.png",
+              "title":"color",
+              "toolName":"sss",
+              "iconImagePath":"camera_photo.png"
+              }
+              ]
+ },
+ {
+ "gropuName": "group2",
+ "toolName":"group",
+ "title":"group",
+ "iconImagePath":"camera_photo.png",
+ "optionalInfo":"",
+ "subtools": [
+              {
+              "type": "1",
+              "filename": "lookup_50_ev3.png",
+              "title":"sss",
+              "toolName":"sss",
+              "iconImagePath":"camera_photo.png"
+              },
+              
+              {
+              "type": "1",
+              "filename": "lookup_ff_kelvin.png",
+              "title":"sss",
+              "toolName":"sss",
+              "iconImagePath":"camera_photo.png"
+              },
+              {
+              "type": "1",
+              "filename": "lookup_ff_px_70warm.png",
+              "title":"sss",
+              "toolName":"sss",
+              "iconImagePath":"camera_photo.png"
+              },
+              {
+              "type": "1",
+              "filename": "lookup_gb_0213.png",
+              "title":"sss",
+              "toolName":"sss",
+              "iconImagePath":"camera_photo.png"
+              },
+              {
+              "type": "1",
+              "filename": "lookup_gg_0184.png",
+              "title":"sss",
+              "toolName":"sss",
+              "iconImagePath":"camera_photo.png"
+              }
+              ]
+ },
+ {
+ "gropuName": "group3",
+ "toolName":"group",
+ "title":"group",
+ "iconImagePath":"camera_photo.png",
+ "optionalInfo":"",
+ "subtools": [
+              
+              {
+              "type": "1",
+              "filename": "lookup_cn_process2.png",
+              "title":"绿",
+              "toolName":"sss",
+              "iconImagePath":"camera_photo.png"
+              },
+              {
+              "type": "1",
+              "filename": "lookup_ff_toaster.png",
+              "title":"黄亮",
+              "toolName":"sss",
+              "iconImagePath":"camera_photo.png"
+              }
+              ]
+ },
+ {
+ "gropuName": "group5",
+ "toolName":"group",
+ "title":"group",
+ "iconImagePath":"camera_photo.png",
+ "optionalInfo":"",
+ "subtools": [
+              
+              {
+              "type": "1",
+              "filename": "lookup_a1_2968.png",
+              "title":"蓝",
+              "toolName":"sss",
+              "iconImagePath":"camera_photo.png"
+              },
+              {
+              "type": "1",
+              "filename": "lookup_cn_t_hc.png",
+              "title":"other",
+              "toolName":"sss",
+              "iconImagePath":"camera_photo.png"
+              },
+              {
+              "type": "1",
+              "filename": "lookup_ff_walden.png",
+              "title":"蓝黄",
+              "toolName":"sss",
+              "iconImagePath":"camera_photo.png"
+              },
+              {
+              "type": "1",
+              "filename": "lookup_gi_0188.png",
+              "title":"黄",
+              "toolName":"sss",
+              "iconImagePath":"camera_photo.png"
+              },
+              {
+              "type": "1",
+              "filename": "lookup_m1_2867.png",
+              "title":"蓝",
+              "toolName":"sss",
+              "iconImagePath":"camera_photo.png"
+              },
+              {
+              "type": "1",
+              "filename": "lookup_saturn-rings-9-2.png",
+              "title":"color",
+              "toolName":"sss",
+              "iconImagePath":"camera_photo.png"
+              },
+              {
+              "type": "1",
+              "filename": "lookup_uf_goldie.png",
+              "title":"color",
+              "toolName":"sss",
+              "iconImagePath":"camera_photo.png"
+              }
+              ]
+ },
+ {
+ "gropuName": "group6",
+ "toolName":"group",
+ "title":"group",
+ "iconImagePath":"camera_photo.png",
+ "optionalInfo":"",
+ "subtools": [
+              {
+              "type": "1",
+              "filename": "lookup_50_os2.png",
+              "title":"color",
+              "toolName":"sss",
+              "iconImagePath":"camera_photo.png"
+              },
+              
+              {
+              "type": "1",
+              "filename": "lookup_cn_t_lc.png",
+              "title":"other",
+              "toolName":"sss",
+              "iconImagePath":"camera_photo.png"
+              },
+              {
+              "type": "1",
+              "filename": "lookup_gg_0176.png",
+              "title":"黄",
+              "toolName":"sss",
+              "iconImagePath":"camera_photo.png"
+              },
+              {
+              "type": "1",
+              "filename": "lookup_uf_hibiscus.png",
+              "title":"黄",
+              "toolName":"sss",
+              "iconImagePath":"camera_photo.png"
+              },
+              {
+              "type": "1",
+              "filename": "lookup_vintage_breeze.png",
+              "title":"蓝",
+              "toolName":"sss",
+              "iconImagePath":"camera_photo.png"
+              }
+              ]
+ },
+ {
+ "gropuName": "group7",
+ "toolName":"group",
+ "title":"group",
+ "iconImagePath":"camera_photo.png",
+ "optionalInfo":"",
+ "subtools": [
+              {
+              "type": "1",
+              "filename": "lookup_50_os3.png",
+              "title":"color",
+              "toolName":"sss",
+              "iconImagePath":"camera_photo.png"
+              },
+              {
+              "type": "1",
+              "filename": "lookup_cn_vintageromance.png",
+              "title":"黄",
+              "toolName":"sss",
+              "iconImagePath":"camera_photo.png"
+              },
+              {
+              "type": "1",
+              "filename": "lookup_gg_0177.png",
+              "title":"other",
+              "toolName":"sss",
+              "iconImagePath":"camera_photo.png"
+              },
+              {
+              "type": "1",
+              "filename": "lookup_gi_0192.png",
+              "title":"other",
+              "toolName":"sss",
+              "iconImagePath":"camera_photo.png"
+              },
+              {
+              "type": "1",
+              "filename": "lookup_w_st.png",
+              "title":"other",
+              "toolName":"sss",
+              "iconImagePath":"camera_photo.png"
+              }
+              ]
+ },
+ {
+ "gropuName": "group8",
+ "toolName":"group",
+ "title":"group",
+ "iconImagePath":"camera_photo.png",
+ "optionalInfo":"",
+ "subtools": [
+              {
+              "type": "1",
+              "filename": "lookup_ff_px_680coldalt.png",
+              "title":"sss",
+              "toolName":"sss",
+              "iconImagePath":"camera_photo.png"
+              },
+              {
+              "type": "1",
+              "filename": "lookup_gg_0179.png",
+              "title":"other",
+              "toolName":"sss",
+              "iconImagePath":"camera_photo.png"
+              },
+              {
+              "type": "1",
+              "filename": "lookup_gi_0193.png",
+              "title":"other",
+              "toolName":"sss",
+              "iconImagePath":"camera_photo.png"
+              },
+              
+              {
+              "type": "1",
+              "filename": "lookup_wd_momentous.png",
+              "title":"other",
+              "toolName":"sss",
+              "iconImagePath":"camera_photo.png"
+              }
+              ]
+ }
+ 
+ ]

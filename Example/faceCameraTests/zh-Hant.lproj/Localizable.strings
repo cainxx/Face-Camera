@@ -1,0 +1,90 @@
+/* 
+  Localizable.strings
+  myCamera
+
+  Created by cain on 16/5/11.
+  Copyright © 2016年 cain. All rights reserved.
+*/
+"clipping" = "剪裁";
+"rotation" = "旋轉";
+"straighten_horizontal" = "水平";
+"straighten_vertical" = "垂直";
+"horizontal_skew" = "水平";
+"vertical_skew" = "垂直";
+"shadow_saturation" = "陰影飽和度";
+"highlight_saturation" = "高光飽和度";
+"shadow_hue" = "陰影色調";
+"highlight_hue" = "高光色調";
+"balance" = "平衡";
+"brightness" = "亮度";
+"sharpen" = "銳化";
+"contrast" = "對比度";
+"saturation" = "飽和度";
+"highlight" = "高光補償";
+"shadow" = "陰影補償";
+"vignette" = "暗角";
+"shift_radial" = "徑向";
+"shift_linear" = "線形";
+"filter" = "濾鏡";
+"double_filter" = "雙重";
+"filter_lomo" = "基本";
+"filter_cartoon" = "卡通";
+"beautify" = "美顏";
+"black_white" = "單色";
+"filter_none" = "原版的";
+"color_pencil" = "彩鉛";
+"color_pencil2" = "彩鉛";
+"pencil" = "鉛筆";
+"cartoon" = "卡通A";
+"cartoon2" = "卡通B";
+"cartoon3" = "卡通C";
+"sketch" = "素描A";
+"sketch2" = "素描B";
+"sketch3" = "素描C";
+"texture_group_instant" = "光照";
+"texture_group_light" = "污漬";
+"texture_group_material" = "紙";
+"text_color" = "顏色";
+"text_font" = "字體";
+"text_bubble" = "文字氣泡";
+"text_align_left" = "左對齊";
+"text_align_center" = "居中對齊";
+"text_align_rght" = "右對齊";
+"tap_camera_press_record" = "點擊拍照,長按錄製視頻";
+"permission_alert_title" = "無相機權限";
+"permission_alert_message" = "請在設置裡打開訪問相機的權限!";
+"permission_alert_ok" = "這就去";
+"permission_title_photo" = "無相冊權限";
+"permission_message_photo" = "請在設置裡打開訪問相冊的權限!";
+"brush" = "筆刷";
+"setting" = "設置";
+"eraser" = "橡皮擦";
+"brush_size" = "筆刷大小";
+"brush_color" = "筆刷顏色";
+"TEXT_HELLO" = "點擊編輯";
+"share_it" = "分享";
+"brushs" = "筆刷";
+"tool" = "剪切";
+"text" = "文字";
+"blur" = "模糊";
+"stickers" = "貼紙";
+"filters" = "濾鏡";
+"textures" = "紋理";
+"back" = "返回";
+"straighten" = "拉伸";
+"beautify" = "美顏";
+"enhance" = "增強";
+"saved" = "已保存至相冊";
+"share_to" = "分享至:";
+"addText" = "添加";
+
+"rotate_left" = "旋轉";
+"rotate_horizo​​n" = "水平反轉";
+"rotate_vertical" = "垂直反轉";
+"addText" = "添加";
+"open_mouth" = "張開嘴巴";
+"unlock" = "分享";
+"unlock_conten" = "分享以解鎖";
+"unlock_title" = "鎖";
+"cancel" = "取消";
+"switch_face" = "點我變臉";

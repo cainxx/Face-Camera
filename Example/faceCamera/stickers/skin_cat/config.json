@@ -1,0 +1,18 @@
+{
+	"items": [{
+		"folderName": "F_ear",
+		"position": 0,
+		"frames": 1,
+		"width": 690,
+		"height": 258,
+  		"scale": 2.1,
+		"insert": "{-0.99, 0.0, 0, 0}",
+	}],
+	"skins": [{
+		"type": "K",
+		"itemId": "cat",
+		"modifiedDatetime": 1462970657,
+		"folderName": "K_cat",
+		"frames": 1
+	}]
+}

@@ -1,0 +1,85 @@
+{
+	"meshs": [{
+		"position": 1,
+		"type": 1,
+		"direction": 0,
+		"radius": 0.25,
+		"strength": 0.86,
+		"insert": "{0.22, -0.02, 0, 0}"
+	}, {
+		"position": 2,
+		"type": 1,
+		"direction": 0,
+		"radius": 0.25,
+		"strength": 0.86,
+		"insert": "{0.22, 0.02, 0, 0}"
+	}, {
+		"position": 1,
+		"type": 1,
+		"direction": 0,
+		"radius": 0.35,
+		"strength": 1.0,
+		"insert": "{-0.5, 0.2, 0, 0}"
+	}, {
+		"position": 2,
+		"type": 1,
+		"direction": 0,
+		"radius": 0.35,
+		"strength": 1.0,
+		"insert": "{-0.5, -0.2, 0, 0}"
+	}, {
+		"position": 6,
+		"type": 1,
+		"direction": 0,
+		"radius": 0.24,
+		"strength": 1.0,
+		"insert": "{0.2, 0, 0, 0}"
+	}, {
+		"position": 3,
+		"type": 1,
+		"direction": 0,
+		"radius": 0.40,
+		"strength": 1.0,
+		"insert": "{0.0, 0, 0, 0}"
+	}, {
+		"position": 8,
+		"type": 3,
+		"direction": 2,
+		"radius": 1.0,
+		"strength": 0.44,
+		"insert": "{-0.40, 0, 0, 0}"
+	}, {
+		"position": 2,
+		"type": 1,
+		"direction": 0,
+		"radius": 0.26,
+		"strength": 1.0,
+		"insert": "{0.0, -0.35, 0, 0}"
+	}, {
+		"position": 6,
+		"type": 3,
+		"direction": 4,
+		"radius": 1.0,
+		"strength": 0.55,
+		"insert": "{0.0, 0, 0, 0}"
+	}, {
+		"position": 1,
+		"type": 1,
+		"direction": 0,
+		"radius": 0.25,
+		"strength": 1.0,
+		"insert": "{0.0, 0.35, 0, 0}"
+	}],
+	"items": [{
+		"folderName": "stocking",
+		"position": 0,
+		"frames": 54,
+		"width": 800,
+		"height": 1400,
+		"scale": 3.4,
+		"insert": "{-0.25, -0.11, 0, 0}",
+	}],
+	"skins": [{
+		"folderName": "stocking2",
+	}],
+}
