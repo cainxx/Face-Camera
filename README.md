@@ -5,7 +5,7 @@ IOS Real-time face detection,landmark,stickers,dynamic effect
 <a href="https://apps.apple.com/us/app/id1130177039">App Store</a>
 
 ## Examples
-<img src="Resources/Example.gif" width="100%" >
+<img src="Resources/Example.gif" width="200" >
 
 
 ## Required
